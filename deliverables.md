@@ -1,6 +1,11 @@
 - What is a scripting language?
+  - an interpreted language that runs through a virtual machine instead of a compiler, generally high level and not      as efficient as compiled languages
 - What is a variable?
+  - a 'container' of sorts for a value, the value of which can change
 - What is a string? An array? A boolean?
+  - string: sequence of characters stored in a single variable
+  - array: sequence of contiguously allocated values in memory referenced by index offset from the first element, but     in javascript is really more of a linked list object
 - What are events?
-- Link to codeacademy profile: 
+  - any action that takes place on a web page
+- Link to codeacademy profile: http://www.codecademy.com/Zharek
 - Code for Project Euler solution in file `project_euler_1.js`.
