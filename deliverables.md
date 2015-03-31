@@ -5,6 +5,7 @@
 - What is a string? An array? A boolean?
   - string: sequence of characters stored in a single variable
   - array: sequence of contiguously allocated values in memory referenced by index offset from the first element, but     in javascript is really more of a linked list object
+  - boolean: a variable that either has a value of true or false
 - What are events?
   - any action that takes place on a web page
 - Link to codeacademy profile: http://www.codecademy.com/Zharek
